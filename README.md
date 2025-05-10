@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/alexandre-henning-wahl-048250325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:alexandre.wahl12@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -22,20 +22,14 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Alewahl12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    height="200"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alewahl12&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alewahl12&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
+    height="200"
   />
-
 </p>
+
