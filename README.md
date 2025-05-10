@@ -6,30 +6,36 @@
   <a href="https://www.linkedin.com/in/alexandre-henning-wahl-048250325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:alexandre.wahl12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
+
+---
+
+### 🧠 Sobre mim
+
+🎓 Meu nome é **Alexandre Henning Wahl**, sou estudante de **Ciência da Computação** com interesse em Data Science e Machine Learning.
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+</p>
 
-### 📊 Estatísticas
+---
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Alewahl12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-    height="200"
+    height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alewahl12&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
-    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alewahl12&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=6" 
+    height="180"
   />
 </p>
-
