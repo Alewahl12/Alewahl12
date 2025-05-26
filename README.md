@@ -31,7 +31,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Alewahl12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=Alewahl12&show_icons=true&theme=tokyonight&include_all_commits=false&locale=en" 
     height="180"
   />
   <img 
