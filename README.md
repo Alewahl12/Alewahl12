@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=7DF7FF&center=true&vCenter=true&width=440&lines=Hello%2C+I+am+Alexandre!;Computer+Science+Student;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=7DF7FF&center=true&vCenter=true&width=440&lines=Hello%2C+I+am+Alexandre!;Computer+Scientist;Welcome+to+my+GitHub+profile!" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧠 Sobre mim
 
-🎓 Meu nome é **Alexandre Henning Wahl**, sou estudante de **Ciência da Computação** com interesse em Data Science e Machine Learning.
+🎓 Meu nome é **Alexandre Henning Wahl**, sou formado em **Ciência da Computação** e tenho interesse em Data Science e Machine Learning.
 
 ---
 
